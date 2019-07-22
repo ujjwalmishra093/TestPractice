@@ -6,5 +6,6 @@ public class Test{
 	}
 	public static void main(String [] args){
 		add(10,20);
+		System.out.println("Added A New Line");
 	}
 }
